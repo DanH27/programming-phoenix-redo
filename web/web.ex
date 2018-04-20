@@ -29,7 +29,7 @@ defmodule Rumbl.Web do
 
 
 
-#This controller not working right now 
+#This controller not working right now
   def controller do
     quote do
       use Phoenix.Controller
